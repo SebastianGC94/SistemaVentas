@@ -1,7 +1,7 @@
 
 package Modelo;
 
-
+//Estructuración objeto
 public class Cliente {
     private int id;
     private String nit;
